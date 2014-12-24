@@ -1,8 +1,6 @@
 ---------------------------------------------------------
 CS229 Machine Learning - Autumn 2014-15
 ---------------------------------------------------------
-Team Members: Barak Oshri, Manu Chopra, Nishith Khandwala
----------------------------------------------------------
 
 Classifying syllables in Imagined Speech using EEG
 
